@@ -1,0 +1,2 @@
+# mitiendita
+aplicacion
